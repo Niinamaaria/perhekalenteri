@@ -20,11 +20,10 @@ set('shared_dirs', []);
 // Writable dirs by web server 
 set('writable_dirs', []);
 
-
 // Hosts
 host('neutroni.hayo.fi')
+    ->user('nkettune')
     ->set('deploy_path', '~/public_html/{{application}}');
-
 
 // Tasks
 

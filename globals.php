@@ -25,7 +25,11 @@
       "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap"),
       "titanone" => array(
         "name" => "Titan One",
-        "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap")
+        "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap"),
+      "luxurious" => array(
+        "name" => "Luxurious Script",
+        "url" => "https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Open+Sans+Condensed:wght@300&family=Playfair+Display&display=swap")
+      
   );
 
   // Otsakkeen taustat aakkosjärjestyksessä.
